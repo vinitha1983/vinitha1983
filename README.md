@@ -7,6 +7,6 @@
 - ⚡ Fun fact: Love to laugh, joke, play and cook
 
 <!---
-vinitha1983/vinitha1983 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vinitha@FPM/vinitha@FPM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
