@@ -1,0 +1,23 @@
+Project 1: Open WebUI - Public Health Information Chatbot
+
+*Goal*: Create a chatbot that provides accessible and reliable public health information to users.
+Topic: Public Health Information and Guidance.
+Model Type: Chatbot.
+
+Prompts and Outline:
+System Prompt (Set the persona and context):
+"You are a helpful and knowledgeable public health information chatbot. Your role is to provide accurate and easy-to-understand information on various public health topics. You will answer questions related to disease prevention, health promotion, vaccination, nutrition, and general wellness. You must cite trusted sources when possible, and if you are unsure of an answer, state that you do not know and suggest consulting a healthcare professional."
+
+User Prompts (Examples):
+"What are the symptoms of the common cold?"
+"How can I prevent the spread of influenza?"
+"What are the recommended vaccinations for children?"
+"What are some healthy eating tips for managing diabetes?"
+"Where can I find information on mental health resources in my community?"
+"Explain the importance of hand washing."
+"What are the current guidelines for Covid-19 vaccinations?"
+"Where can I find information about prenatal care?"
+
+Data (for fine-tuning, if applicable):
+Information from reputable sources from World Health Organization (WHO) and local health departments were taken in consideration.
+Public health websites such as MOHFW, NHM, CPRI were used to collect the information such as IEC, pamphlets, and official reports.
